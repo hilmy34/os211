@@ -14,3 +14,5 @@ ZCZC W01 30 L13 Assignment #3
 ZCZC W01 30 L14 Assignment #4 : Using vim
 ZCZC W01 100 L15 Assignment #5 : Setting Github
 ZCZC W01 10 L16 Assignment #6 : Update mylog.txt using vi
+ZCZC W01 100 L17 Assignment #7 : Create my Top 10 Links
+ZCZC W01 10 L18 Assignment #8 : Learn regex etc.
