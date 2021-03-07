@@ -1,10 +1,11 @@
-# os211
+# OS211
 Operating Systems 2021-1 (Semester Genap 2020/2021)
 
-## Halo ! Nama saya **Hilmy Akbar**.
+###  Halo ! Nama saya **Hilmy Akbar**.
 Berikut adalah Weekly Assignments saya dalam mata kuliah Operating Systems
 
-###_Weekly Assignments_
+
+_My Weekly Assignments_
 
 Nomor | Judul Assignment | Link
 ----- | ----- | -----
