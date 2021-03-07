@@ -12,4 +12,5 @@ ZCZC W01 200 L11 Assignment #1
 ZCZC W01 40 L12 Assignment #2
 ZCZC W01 30 L13 Assignment #3
 ZCZC W01 30 L14 Assignment #4 : Using vim
-ZCZC W01 100 L15 Assignment #5 : Setting Github and using Vi
+ZCZC W01 100 L15 Assignment #5 : Setting Github
+ZCZC W01 10 L16 Assignment #6 : Update mylog.txt using vi
