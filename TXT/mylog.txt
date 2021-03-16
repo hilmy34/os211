@@ -15,4 +15,10 @@ ZCZC W01 30 L14 Assignment #4 : Using vim
 ZCZC W01 100 L15 Assignment #5 : Setting Github
 ZCZC W01 10 L16 Assignment #6 : Update mylog.txt using vi
 ZCZC W01 100 L17 Assignment #7 : Create my Top 10 Links
-ZCZC W01 10 L18 Assignment #8 : Learn regex etc.
+ZCZC W01 10 L18 Assignment #8 : Learn regex etc
+ZCZC W02 200 L21 VirtualBox : try to install MacOS Catalina
+ZCZC W02 30 L27 Pets : playing with my cat
+ZCZC W02 180 L22 Youtube : Watch Indonesian Idol
+ZCZC W02 10 L04 GithHub Pages : Stalking my friend's GitHub Pages
+ZCZC W02 150 L11 Assignment #1 : Setting myscript.sh
+ZCZC W02 30 L05 GSGS related to Week02
