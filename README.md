@@ -3,9 +3,9 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 ###  Halo ! Nama saya **Hilmy Akbar**.
 Berikut adalah Weekly Assignments saya dalam mata kuliah Operating Systems
 
-Link penting :
-[My Rank] (https://hilmy34.github.io/os211/TXT/myrank.txt) | [My LOG] (https://hilmy34.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/hilmy34/os211)
---- | --- | ---
+Link penting :<br>
+[My Rank](https://hilmy34.github.io/os211/TXT/myrank.txt) | [My LOG](https://hilmy34.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/hilmy34/os211)
+----- | ----- | -----
 <br>  
 
 _My Weekly Assignments_
