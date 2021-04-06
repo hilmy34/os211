@@ -31,3 +31,8 @@ ZCZC W04 150 L99 Others : Maintaining my Shopee Online Shopping (strapholic.co)
 ZCZC W04 120 L22 Youtube : Watching Indonesian Idol
 ZCZC W04 100 L05 GSGS related to Week04
 ZCZC W04 160 L11 Assignment #1 : Doing all task in W04
+ZCZC W05 50 L37 Pets : Feeding my Betta Fish and giving my cat some medicine.
+ZCZC W05 130 L22 Youtube : Watching Gadgetin, Food Review, etc.
+ZCZC W05 70 L05 GSGS related to Week05
+ZCZC W05 10 L04 GithHub Pages : Stalking my friend's GitHub Pages
+ZCZC W05 150 L11 Assignment #1 : Doing all task in W05
