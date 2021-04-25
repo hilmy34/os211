@@ -17,3 +17,4 @@ Nomor | Judul Assignment | Link
 3 | Top 10 Links Week03| [W03](https://hilmy34.github.io/os211/W03/)
 4 | Top 10 Links Week04| [W04](https://hilmy34.github.io/os211/W04/)
 5 | Top 10 Links Week05| [W05](https://hilmy34.github.io/os211/W05/)
+6 | Top 10 Links Week06| [W06](https://hilmy34.github.io/os211/W06/)
