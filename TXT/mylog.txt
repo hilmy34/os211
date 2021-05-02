@@ -40,7 +40,12 @@ ZCZC W06 100 L22 Youtube : Watching NessieJudge, Food Mukbang, etc.
 ZCZC W06 40 L37 Pets : Playing with my cat
 ZCZC W06 100 L05 GSGS related to Week06
 ZCZC W06 200 L21 VirtualBox : Reconfiguring my virtualbox, setting git, etc
-ZCZC W06 140 L11 Assignment #1 : Doing all task in W06 
+ZCZC W07 140 L11 Assignment #1 : Doing all task in W06
+ZCZC W07 100 L37 Pets : Feeding my Betta fish and playing with my cat
+ZCZC W07 120 L22 Youtube : Watching Mukbang, Review Food, etc.
+ZCZC W07 120 L05 GSGS related to week 07
+ZCZC W07 120 L11 Assignment #1 : Doing all task in W07  
+ZCZC W07 50 L23 Discord : discussing about W07
 
 
 
