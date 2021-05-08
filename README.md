@@ -5,7 +5,6 @@ Saya menempuh mata kuliah Sistem Operasi kelas A. Di halaman ini terdapat link p
 <br>
 Link penting :
 [My Rank](https://hilmy34.github.io/os211/TXT/myrank.txt) | [My LOG](https://hilmy34.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/hilmy34/os211)
---- | --- | ---
 <br>  
 
 _My Weekly Assignments_
@@ -19,3 +18,4 @@ Nomor | Judul Assignment | Link
 5 | Top 10 Links Week05| [W05](https://hilmy34.github.io/os211/W05/)
 6 | Top 10 Links Week06| [W06](https://hilmy34.github.io/os211/W06/)
 7 | Top 10 Links Week07| [W07](https://hilmy34.github.io/os211/W07/)
+8 | Top 10 Links Week08| [W08](https://hilmy34.github.io/os211/W08/)
