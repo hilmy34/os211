@@ -48,7 +48,10 @@ ZCZC W07 120 L11 Assignment #1 : Doing all task in W07
 ZCZC W07 50 L23 Discord : discussing about W07
 ZCZC W08 150 L22 Youtube : Watching Indonesian Idol
 ZCZC W08 250 L11 Assignment : Doing all task in W08 (Linux From Scratch)
-ZCZC W08 100 L23 Discord : playing music and discussing about W08 with my friends 
+ZCZC W08 100 L23 Discord : playing music and discussing about W08 with my friends
+ZCZC W09 150 L22 Youtube : Watching Mukbang
+ZCZC W09 400 L11 Assignment : Doing all tasks in W09 (LFS ch. 5) but failed
+ZCZC W09 200 L99 Others : Workout 
 
 
 
